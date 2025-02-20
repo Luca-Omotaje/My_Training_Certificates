@@ -13,3 +13,5 @@
 - **Investigator Oversight Informational Program v1_TransCelerate BIOPHARMA INC** - Completed in January 2024
 
 - **NCFE Level 3 Certificate in Data (Data Analysis)** - Completed in October 2024
+  
+- **Quality Assurance (QA) - Techniques and Methodologies_Alison_Certificate** - Completed on 20 February 2025
