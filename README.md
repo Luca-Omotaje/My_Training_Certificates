@@ -1,17 +1,45 @@
-- **Certificate Course in Pharmacovigilance Aggregate Reporting** - Completed on 23 February 2024 **(Refresher)**
+This list highlights key certifications and refresher courses completed through self-directed learning
 
-- **Fundamentals of Quality Assurance_Alison_Certificate** - Completed in February 2025 **(Refresher)**
 
-- **GVP MODULE VI_Management and Reporting of Adverse Reactions to Medicinal Products_PIPA_Training Certificate** - Completed on 27 February 2024 **(Refresher)**
+**Pharmacovigilance/Drug Safety Focused Training**
 
-- **GVP MODULE V_Risk Management Systems_PIPA_Training Certificate** - Completed on 22 February 2024 **(Refresher)**
+| **Course / Certificate** | **Institution / Provider**             | **Completion Date** | **Notes**   |
+|--------------------------|----------------------------------------|----------------------|-------------|
+| How to Facilitate a Successful Product Launch (Medical Info) | PIPA                                 | 21 Feb 2024         | —           |
+| GVP Module V – Risk Management Systems                     | PIPA                                   | 22 Feb 2024         | Refresher   |
+| Certificate Course in Pharmacovigilance Aggregate Reporting | Udemy                                 | 23 Feb 2024         | Refresher   |
+| GVP Module VI – Management and Reporting of ADRs           | PIPA                                   | 27 Feb 2024         | Refresher   |
 
-- **How to Facilitate a Successful Product Launch_Medical Information_PIPA_Training Certificate** - Completed on 21 February 2024
 
-- **ICH Good Clinical Practice E6 (R2)_The Global Health Network** - Completed in January 2024 **(Refresher)**
+**Quality Assurance Focused Training**
+| **Course / Certificate** | **Institution / Provider**             | **Completion Date** | **Notes**   |
+|--------------------------|----------------------------------------|----------------------|-------------|
+| Fundamentals of Quality Assurance                          | Alison                                 | 12 Feb 2025         | Refresher   |
+| QA – Techniques and Methodologies                          | Alison                                 | 20 Feb 2025         | Refresher   |
 
-- **Investigator Oversight Informational Program v1_TransCelerate BIOPHARMA INC** - Completed in January 2024
 
-- **NCFE Level 3 Certificate in Data (Data Analysis)** - Completed in October 2024
-  
-- **Quality Assurance (QA) - Techniques and Methodologies_Alison_Certificate** - Completed on 20 February 2025
+**Clinical Research and Clinical Data Management Focused Training**
+
+| **Course / Certificate**                  | **Institution / Provider**     | **Completion Date** | **Notes** |
+|-------------------------------------------|--------------------------------|----------------------|-----------|
+| ICH Good Clinical Practice E6 (R2)         | The Global Health Network      | 31 Jan 2024          | Refresher |
+| Investigator Oversight Informational Program v1            | TransCelerate Biopharma               | 31 Jan 2024            | Certificate of Completion           |
+| Essential Documents (Version 01)            | TransCelerate Biopharma               | 19 Mar 2025            | Certificate of Completion          |
+| Investigational Product (Version 01)            | TransCelerate Biopharma               | 20 Mar 2025            | Certificate of Completion           |
+| Introduction to Data Management for Clinical Research Studies         | The Global Health Network      | 20 Mar 2025          | Certificate of Completion   |
+| Clinical Trials Assistant        | VIARES Academy      | 18 Apr 2025          | Certificate of Achievement  |
+| Data Entry in Castor EDC-CDMS Certification (v01.2025)       | Castor Academy      | 03 Jun 2025          | Certificate of Completion  |
+| EDC-CDMS-Clinical Research Coordinator role Certification (v8.2024)       | Castor Academy      | 07 Jun 2025          | Certificate of Completion  |
+| Navigating ICH GCP E6 (R3)       | VIARES Academy      | 12 Jun 2025          | Certificate of Achievement  |
+
+
+
+**Data Analysis Focused Training**
+
+| **Course / Certificate**                  | **Institution / Provider**     | **Completion Date** | **Notes** |
+|-------------------------------------------|--------------------------------|----------------------|-----------|
+| NCFE Level 3 Certificate in Data  | Netcom Training Ltd                       | Oct 2024            | Certificate awarded by NCFE        |
+
+
+
+
