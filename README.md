@@ -7,7 +7,7 @@ This list highlights key certifications and refresher courses completed through 
 |--------------------------|----------------------------------------|----------------------|-------------|
 | How to Facilitate a Successful Product Launch (Medical Info) | PIPA                                 | 21 Feb 2024         | —           |
 | GVP Module V – Risk Management Systems                     | PIPA                                   | 22 Feb 2024         | Refresher   |
-| Certificate Course in Pharmacovigilance Aggregate Reporting | Udemy                                 | 23 Feb 2024         | Refresher   |
+| [Certificate Course in Pharmacovigilance Aggregate Reporting](./Pharmacovigilance%20-Drug%20Safety%20Focused%20Training/Certificate%20Course%20in%20Pharmacovigilance%20Aggregate%20Reporting_Certificate%20of%20Completion.pdf) | Udemy                                 | 23 Feb 2024         | Refresher   |
 | GVP Module VI – Management and Reporting of ADRs           | PIPA                                   | 27 Feb 2024         | Refresher   |
 
 
